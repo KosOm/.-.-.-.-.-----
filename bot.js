@@ -2706,4 +2706,4 @@ msg.channel.send(`**Bot InviteURL : ** https://discordapp.com/oauth2/authorize?c
 
 
 
-client.login('احم');
+client.login('NTEwNDM3ODg5NTEyMDQ2NTkz.DscV7A.5el1wsIctB2OaMvPGZcYZr1l8uU');
